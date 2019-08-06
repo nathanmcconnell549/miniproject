@@ -2,6 +2,7 @@
 
 	//Start Session
 	session_start();
+	$count = 0;
 
 ?>
 
